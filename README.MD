@@ -9,6 +9,10 @@ Build Requirements:
 - FlatLaf 2.6 (Downloaded by gradle)
 - Gson 2.8.9 (Downloaded by gradle)
 - Discord Game SDK v1.0.0 (Included in /lib/)
+
+Usage Requirements:
+- Valid spawns.json, npcs.json, and objects.json
+- Map.png from [OpenRS2](https://archive.openrs2.org/caches)
 --------------------------------------------------------------------------------------------------------------------------------------
 Release text from Rune-Server Thread:
 --------------------------------------------------------------------------------------------------------------------------------------
